@@ -1,4 +1,4 @@
-These hcks were made by multiple people
+These hacks were made by multiple people
 NOT BY ME
 
 Important: To use the hacks that have the copy to clipboard item you have to type (javascript:) then Ctrl+v the hack into the URL 
