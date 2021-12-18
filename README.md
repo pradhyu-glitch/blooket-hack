@@ -5,7 +5,7 @@ Important: To use the hacks that have the copy to clipboard item you have to typ
 
 <br>
 <br>
-This is a hacks to give a hidable hack menu
+This is a hidable hacks menu:
 
 ```js
 
